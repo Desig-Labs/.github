@@ -4,7 +4,7 @@
 
 ## What is Multisig?
 
-![Multisig Wallet](./Multisig-Wallet.jpeg)
+![Multisig Wallet](https://raw.githubusercontent.com/Desig-Labs/.github/main/profile/Multisig-Wallet.jpeg)
 
 Multisig (or Multi-signature) refers to a shared wallet that requires multiple keys to authorize a transaction. A t-out-of-n multisig wallet needs t signatures at least to consent and process a transaction.
 
