@@ -1,6 +1,6 @@
 # Welcome to Desig Labs 👋
 
-![Twitter Follow](https://img.shields.io/twitter/follow/DesigLabs?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/DesigLabs?style=social)](https://twitter.com/DesigLabs)
 
 ## What is Multisig?
 
