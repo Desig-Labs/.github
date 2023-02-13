@@ -2,6 +2,8 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/DesigLabs?style=social)](https://twitter.com/DesigLabs)
 
+_Desig Protocol is a blockchain-agnostic (smartcontractless) multisig solution._
+
 ## What is Multisig?
 
 ![Multisig Wallet](https://raw.githubusercontent.com/Desig-Labs/.github/main/profile/Multisig-Wallet.jpeg)
