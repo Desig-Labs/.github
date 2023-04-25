@@ -29,15 +29,15 @@ We want to use the technique of threshold signature to solve the problem. The pr
 DAO
 
 - Zero Fees
-- Privacy-Preserving eVoting
-- Autonomous Treasury
 - Full dApps Compatibility
+- Multichain Operations
 
 Enterprise
 
 - Multisig
 - Seamlessly Upgradable Wallet
-- Multichain Operations
+- Autonomous Treasury
+- Privacy Preserving
 
 Individual
 
